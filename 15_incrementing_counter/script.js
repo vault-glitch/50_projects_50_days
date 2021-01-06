@@ -19,3 +19,5 @@ counters.forEach(counter => {
 
     updateCounter()
 })
+
+//update test
